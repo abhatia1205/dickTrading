@@ -1,0 +1,48 @@
+2024-04-05 16:47:12,303 :: INFO :: root :: Connection established
+2024-04-05 16:47:12,306 :: DEBUG :: urllib3.connectionpool :: Starting new HTTP connection (1): 34.174.156.121:8080
+2024-04-05 16:47:12,328 :: DEBUG :: urllib3.connectionpool :: http://34.174.156.121:8080 "GET /products HTTP/1.1" 200 27
+2024-04-05 16:47:12,330 :: DEBUG :: urllib3.connectionpool :: Starting new HTTP connection (1): 34.174.156.121:8080
+2024-04-05 16:47:12,360 :: DEBUG :: urllib3.connectionpool :: http://34.174.156.121:8080 "GET /product_details HTTP/1.1" 200 154
+2024-04-05 16:47:12,361 :: DEBUG :: urllib3.connectionpool :: Starting new HTTP connection (1): 34.174.156.121:8080
+2024-04-05 16:47:12,399 :: DEBUG :: urllib3.connectionpool :: http://34.174.156.121:8080 "POST /trader_position HTTP/1.1" 200 96
+2024-04-05 16:47:12,401 :: DEBUG :: urllib3.connectionpool :: Starting new HTTP connection (1): 34.174.156.121:8080
+2024-04-05 16:47:12,423 :: DEBUG :: urllib3.connectionpool :: http://34.174.156.121:8080 "POST /trader_position HTTP/1.1" 200 46
+2024-04-05 16:47:12,425 :: DEBUG :: urllib3.connectionpool :: Starting new HTTP connection (1): 34.174.156.121:8080
+2024-04-05 16:47:12,449 :: DEBUG :: urllib3.connectionpool :: http://34.174.156.121:8080 "POST /trader_position HTTP/1.1" 200 46
+2024-04-05 16:47:15,214 :: DEBUG :: root :: Message received: tick
+2024-04-05 16:47:15,215 :: DEBUG :: urllib3.connectionpool :: Starting new HTTP connection (1): 34.174.156.121:8080
+2024-04-05 16:47:15,238 :: DEBUG :: urllib3.connectionpool :: http://34.174.156.121:8080 "GET /products HTTP/1.1" 200 27
+2024-04-05 16:47:15,240 :: DEBUG :: urllib3.connectionpool :: Starting new HTTP connection (1): 34.174.156.121:8080
+2024-04-05 16:47:15,266 :: DEBUG :: urllib3.connectionpool :: http://34.174.156.121:8080 "GET /product_details HTTP/1.1" 200 154
+2024-04-05 16:47:54,070 :: INFO :: root :: Connection established
+2024-04-05 16:47:54,072 :: DEBUG :: urllib3.connectionpool :: Starting new HTTP connection (1): 34.174.156.121:8080
+2024-04-05 16:47:54,119 :: DEBUG :: urllib3.connectionpool :: http://34.174.156.121:8080 "GET /products HTTP/1.1" 200 27
+2024-04-05 16:47:54,121 :: DEBUG :: urllib3.connectionpool :: Starting new HTTP connection (1): 34.174.156.121:8080
+2024-04-05 16:47:54,162 :: DEBUG :: urllib3.connectionpool :: http://34.174.156.121:8080 "GET /product_details HTTP/1.1" 200 154
+2024-04-05 16:47:54,163 :: DEBUG :: urllib3.connectionpool :: Starting new HTTP connection (1): 34.174.156.121:8080
+2024-04-05 16:47:54,191 :: DEBUG :: urllib3.connectionpool :: http://34.174.156.121:8080 "POST /trader_position HTTP/1.1" 200 96
+2024-04-05 16:47:54,194 :: DEBUG :: urllib3.connectionpool :: Starting new HTTP connection (1): 34.174.156.121:8080
+2024-04-05 16:47:54,221 :: DEBUG :: urllib3.connectionpool :: http://34.174.156.121:8080 "POST /trader_position HTTP/1.1" 200 46
+2024-04-05 16:47:54,223 :: DEBUG :: urllib3.connectionpool :: Starting new HTTP connection (1): 34.174.156.121:8080
+2024-04-05 16:47:54,246 :: DEBUG :: urllib3.connectionpool :: http://34.174.156.121:8080 "POST /trader_position HTTP/1.1" 200 46
+2024-04-05 16:47:55,290 :: DEBUG :: root :: Message received: tick
+2024-04-05 16:47:55,292 :: DEBUG :: urllib3.connectionpool :: Starting new HTTP connection (1): 34.174.156.121:8080
+2024-04-05 16:47:55,310 :: DEBUG :: urllib3.connectionpool :: http://34.174.156.121:8080 "GET /products HTTP/1.1" 200 27
+2024-04-05 16:47:55,313 :: DEBUG :: urllib3.connectionpool :: Starting new HTTP connection (1): 34.174.156.121:8080
+2024-04-05 16:47:55,333 :: DEBUG :: urllib3.connectionpool :: http://34.174.156.121:8080 "GET /product_details HTTP/1.1" 200 154
+2024-04-05 16:48:11,076 :: INFO :: root :: Connection established
+2024-04-05 16:48:11,078 :: DEBUG :: urllib3.connectionpool :: Starting new HTTP connection (1): 34.174.156.121:8080
+2024-04-05 16:48:11,099 :: DEBUG :: urllib3.connectionpool :: http://34.174.156.121:8080 "GET /products HTTP/1.1" 200 27
+2024-04-05 16:48:11,101 :: DEBUG :: urllib3.connectionpool :: Starting new HTTP connection (1): 34.174.156.121:8080
+2024-04-05 16:48:11,121 :: DEBUG :: urllib3.connectionpool :: http://34.174.156.121:8080 "GET /product_details HTTP/1.1" 200 154
+2024-04-05 16:48:11,124 :: DEBUG :: urllib3.connectionpool :: Starting new HTTP connection (1): 34.174.156.121:8080
+2024-04-05 16:48:11,145 :: DEBUG :: urllib3.connectionpool :: http://34.174.156.121:8080 "POST /trader_position HTTP/1.1" 200 96
+2024-04-05 16:48:11,148 :: DEBUG :: urllib3.connectionpool :: Starting new HTTP connection (1): 34.174.156.121:8080
+2024-04-05 16:48:11,168 :: DEBUG :: urllib3.connectionpool :: http://34.174.156.121:8080 "POST /trader_position HTTP/1.1" 200 46
+2024-04-05 16:48:11,170 :: DEBUG :: urllib3.connectionpool :: Starting new HTTP connection (1): 34.174.156.121:8080
+2024-04-05 16:48:11,191 :: DEBUG :: urllib3.connectionpool :: http://34.174.156.121:8080 "POST /trader_position HTTP/1.1" 200 46
+2024-04-05 16:48:12,185 :: DEBUG :: root :: Message received: update
+2024-04-05 16:48:12,186 :: DEBUG :: urllib3.connectionpool :: Starting new HTTP connection (1): 34.174.156.121:8080
+2024-04-05 16:48:12,220 :: DEBUG :: urllib3.connectionpool :: http://34.174.156.121:8080 "GET /products HTTP/1.1" 200 27
+2024-04-05 16:48:12,221 :: DEBUG :: urllib3.connectionpool :: Starting new HTTP connection (1): 34.174.156.121:8080
+2024-04-05 16:48:12,256 :: DEBUG :: urllib3.connectionpool :: http://34.174.156.121:8080 "GET /product_details HTTP/1.1" 200 154

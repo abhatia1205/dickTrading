@@ -24,6 +24,7 @@ class ExchangeGateway:
     def receieve_json_response(self) -> dict:
         response = self.ws.recv()
         if response:
+            print(json.loads(response))
             return json.loads(response)
         return None
 

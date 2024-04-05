@@ -4,8 +4,8 @@ from typing import List
 
 class Trader:
     def __init__(self):
-        self.username = "autotrader"
-        self.password = "123"
+        self.username = "Dallas Incredible Coding Kids"
+        self.password = "Balls"
 
     def run(self, tradingState: TradingState):
         # dict of order to place {product_id: [Order]}
